@@ -7,11 +7,11 @@ You are probably looking for [zozlib.js](https://github.com/tsoding/zozlib.js). 
 For SSH:
 
 ```console
-$ git remote set-url origin git@github.com:tsoding/zozlib.js.git
+git remote set-url origin git@github.com:tsoding/zozlib.js.git
 ```
 
 For HTTPS:
 
 ```console
-$ git remote set-url origin https://github.com/tsoding/zozlib.js.git
+git remote set-url origin https://github.com/tsoding/zozlib.js.git
 ```
